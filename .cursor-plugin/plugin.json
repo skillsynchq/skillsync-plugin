@@ -1,0 +1,26 @@
+{
+  "name": "skillsync",
+  "displayName": "Skillsync",
+  "version": "1.0.0",
+  "description": "The hub for your skills",
+  "author": {
+    "name": "Skillsync Inc.",
+    "email": "founders@skillsync.com"
+  },
+  "homepage": "https://app.skillsync.com",
+  "repository": "https://github.com/skillsynchq/skillsync-plugin",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "skillsync",
+    "skills",
+    "agent-skills",
+    "productivity",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "skills",
+    "productivity",
+    "mcp"
+  ]
+}

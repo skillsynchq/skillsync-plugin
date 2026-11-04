@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "skillsync": {
+      "type": "http",
+      "url": "https://app.skillsync.com/mcp"
+    }
+  }
+}
